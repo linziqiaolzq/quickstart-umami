@@ -16,17 +16,12 @@ Service:
           - cn-zhangjiakou
           - cn-huhehaote
           - cn-wulanchabu
-          - cn-qingdao-acdr-ut-1
-          - cn-zhengzhou-jva
           - cn-hangzhou
           - cn-shanghai
-          - cn-shanghai-cloudspe
-          - cn-hangzhou-acdr-ut-1
           - cn-nanjing
           - cn-shenzhen
           - cn-heyuan
           - cn-guangzhou
-          - cn-heyuan-acdr-1
           - cn-fuzhou
           - cn-wuhan-lr
           - cn-chengdu
@@ -44,7 +39,6 @@ Service:
           - eu-west-1
           - eu-central-1
           - me-east-1
-          - me-central-1
   ServiceType: private
   ServiceInfo:
     Locale: zh-CN
