@@ -300,6 +300,7 @@ Resources:
             systemctl start quickstart-umami
           - RegionId:
               Ref: ALIYUN::Region
+  
 Outputs: 
   umami_address:
     Description:
